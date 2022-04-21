@@ -1,0 +1,7 @@
+C:\Users\merhaut.2019\Source\Repos\opakovanizc\OpakovanizC\OpakovanizC\obj\Debug\OpakovanizC.csproj.AssemblyReference.cache
+C:\Users\merhaut.2019\Source\Repos\opakovanizc\OpakovanizC\OpakovanizC\obj\Debug\OpakovanizC.csproj.CoreCompileInputs.cache
+C:\Users\merhaut.2019\Source\Repos\opakovanizc\OpakovanizC\OpakovanizC\bin\Debug\OpakovanizC.exe.config
+C:\Users\merhaut.2019\Source\Repos\opakovanizc\OpakovanizC\OpakovanizC\bin\Debug\OpakovanizC.exe
+C:\Users\merhaut.2019\Source\Repos\opakovanizc\OpakovanizC\OpakovanizC\bin\Debug\OpakovanizC.pdb
+C:\Users\merhaut.2019\Source\Repos\opakovanizc\OpakovanizC\OpakovanizC\obj\Debug\OpakovanizC.exe
+C:\Users\merhaut.2019\Source\Repos\opakovanizc\OpakovanizC\OpakovanizC\obj\Debug\OpakovanizC.pdb
