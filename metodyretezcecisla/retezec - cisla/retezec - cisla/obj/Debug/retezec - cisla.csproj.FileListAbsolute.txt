@@ -1,0 +1,7 @@
+C:\Users\merhaut.2019\source\repos\metodyretezcecisla\retezec - cisla\retezec - cisla\bin\Debug\retezec - cisla.exe.config
+C:\Users\merhaut.2019\source\repos\metodyretezcecisla\retezec - cisla\retezec - cisla\bin\Debug\retezec - cisla.exe
+C:\Users\merhaut.2019\source\repos\metodyretezcecisla\retezec - cisla\retezec - cisla\bin\Debug\retezec - cisla.pdb
+C:\Users\merhaut.2019\source\repos\metodyretezcecisla\retezec - cisla\retezec - cisla\obj\Debug\retezec - cisla.csproj.AssemblyReference.cache
+C:\Users\merhaut.2019\source\repos\metodyretezcecisla\retezec - cisla\retezec - cisla\obj\Debug\retezec - cisla.csproj.CoreCompileInputs.cache
+C:\Users\merhaut.2019\source\repos\metodyretezcecisla\retezec - cisla\retezec - cisla\obj\Debug\retezec - cisla.exe
+C:\Users\merhaut.2019\source\repos\metodyretezcecisla\retezec - cisla\retezec - cisla\obj\Debug\retezec - cisla.pdb
