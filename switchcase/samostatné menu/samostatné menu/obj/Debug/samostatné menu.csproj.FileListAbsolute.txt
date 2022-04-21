@@ -1,0 +1,6 @@
+C:\Users\merhaut.2019\source\repos\switchcase\samostatné menu\samostatné menu\obj\Debug\samostatné menu.csproj.CoreCompileInputs.cache
+C:\Users\merhaut.2019\source\repos\switchcase\samostatné menu\samostatné menu\bin\Debug\samostatné menu.exe.config
+C:\Users\merhaut.2019\source\repos\switchcase\samostatné menu\samostatné menu\bin\Debug\samostatné menu.exe
+C:\Users\merhaut.2019\source\repos\switchcase\samostatné menu\samostatné menu\bin\Debug\samostatné menu.pdb
+C:\Users\merhaut.2019\source\repos\switchcase\samostatné menu\samostatné menu\obj\Debug\samostatné menu.exe
+C:\Users\merhaut.2019\source\repos\switchcase\samostatné menu\samostatné menu\obj\Debug\samostatné menu.pdb
