@@ -1,0 +1,7 @@
+C:\Users\merhaut.2019\Source\Repos\prikladnapropojeniexistujiciho\Propjeni\Propjeni\bin\Debug\Propjeni.exe.config
+C:\Users\merhaut.2019\Source\Repos\prikladnapropojeniexistujiciho\Propjeni\Propjeni\bin\Debug\Propjeni.exe
+C:\Users\merhaut.2019\Source\Repos\prikladnapropojeniexistujiciho\Propjeni\Propjeni\bin\Debug\Propjeni.pdb
+C:\Users\merhaut.2019\Source\Repos\prikladnapropojeniexistujiciho\Propjeni\Propjeni\obj\Debug\Propjeni.csproj.AssemblyReference.cache
+C:\Users\merhaut.2019\Source\Repos\prikladnapropojeniexistujiciho\Propjeni\Propjeni\obj\Debug\Propjeni.csproj.CoreCompileInputs.cache
+C:\Users\merhaut.2019\Source\Repos\prikladnapropojeniexistujiciho\Propjeni\Propjeni\obj\Debug\Propjeni.exe
+C:\Users\merhaut.2019\Source\Repos\prikladnapropojeniexistujiciho\Propjeni\Propjeni\obj\Debug\Propjeni.pdb

@@ -1,0 +1,7 @@
+C:\Users\merhaut.2019\source\repos\prikladzapouzdreniplnoletost\zapouzdreni\zapouzdreni\bin\Debug\zapouzdreni.exe.config
+C:\Users\merhaut.2019\source\repos\prikladzapouzdreniplnoletost\zapouzdreni\zapouzdreni\bin\Debug\zapouzdreni.exe
+C:\Users\merhaut.2019\source\repos\prikladzapouzdreniplnoletost\zapouzdreni\zapouzdreni\bin\Debug\zapouzdreni.pdb
+C:\Users\merhaut.2019\source\repos\prikladzapouzdreniplnoletost\zapouzdreni\zapouzdreni\obj\Debug\zapouzdreni.csproj.AssemblyReference.cache
+C:\Users\merhaut.2019\source\repos\prikladzapouzdreniplnoletost\zapouzdreni\zapouzdreni\obj\Debug\zapouzdreni.csproj.CoreCompileInputs.cache
+C:\Users\merhaut.2019\source\repos\prikladzapouzdreniplnoletost\zapouzdreni\zapouzdreni\obj\Debug\zapouzdreni.exe
+C:\Users\merhaut.2019\source\repos\prikladzapouzdreniplnoletost\zapouzdreni\zapouzdreni\obj\Debug\zapouzdreni.pdb
